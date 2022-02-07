@@ -8,49 +8,34 @@ This repository contains my first project developed during the course at Trybe. 
 
 ### Were used in the construction of this page:
 
-<section 
-  style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; align-content: space-between;">
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://github.com/"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/GitHub-6C757D?style=for-the-badge&logo=github&logoColor=white"
-      />
-    </a>
-  </div>
-
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      />
-    </a>
-  </div>
-
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      />
-    </a>
-  </div>
+<section>
+  <a
+    href="https://github.com/"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/GitHub-6C757D?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+    />
+  </a>
 </section>
 
 ---
@@ -85,49 +70,35 @@ _Acima, na versão em inglês, é exibida a imagem da página do projeto._
 ---
 ### Foram utilizados na construção desta página:
 
-<section 
-  style="display: flex; flex-flow: row wrap; justify-content: center; align-items: center; align-content: space-between;">
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://github.com/"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/GitHub-6C757D?style=for-the-badge&logo=github&logoColor=white"
-      />
-    </a>
-  </div>
 
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      />
-    </a>
-  </div>
-
-  <div
-    style="margin: auto 5px"
-  >
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-      target="_blank">
-      <img
-        align="center"
-        height="30"
-        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      />
-    </a>
-  </div>
+<section>
+  <a
+    href="https://github.com/"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/GitHub-6C757D?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+    />
+  </a>
 </section>
 
 ---
